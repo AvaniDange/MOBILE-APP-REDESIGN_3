@@ -41,20 +41,25 @@ The goal of this project is to redesign Spotify’s user interface and experienc
 
 6. **Personalized Recommendations**:  
    - Improved AI-powered suggestions that are more relevant to user preferences.  
-   - Integrated contextual details on why a song or playlist is recommended.  
+   - Integrated contextual details on why a song or playlist is recommended.
+   - 
+7. **Voice Search for Songs**
+   - Added a Voice Search feature that allows users to find songs by singing or speaking a part of the lyrics.
+   - Utilizes advanced audio recognition to deliver accurate results and help users quickly find the desired track, even if they don't know the exact name.
 
 ---
+### Design Enhancements:
 
-#### Design Principles:  
-- **User-Centric**: Focused on accessibility, simplicity, and personalization.  
-- **Consistency**: Maintained Spotify’s brand identity while improving clarity and usability.  
-- **Efficiency**: Streamlined user interactions to minimize taps and improve functionality.  
+**Simplified Navigation:**
+  - Streamlined the home page layout to emphasize recent tracks and personalized recommendations.
+  - Removed unnecessary clutter to improve focus on key actions like searching, queueing, and playing music.
+    
+**Improved Content Discovery:**
+  - Enhanced song suggestion interface with larger visuals, clearer buttons, and interactive animations to improve engagement.
+    
+**Accessible Features:**
+  - Added tooltips for new features like Add to Queue, Repeat, and Voice Search to guide first-time users.
+  - Optimized layouts for better usability across devices.
 
----
-
-#### Deliverables:  
-- **Interactive Prototype**: Showcasing all redesigned features.  
-- **Documentation**: Detailed explanations of each improvement and its impact on the user experience.  
-- **Feedback Analysis**: Iterative updates based on user testing and feedback.  
 
 ![image](https://github.com/user-attachments/assets/757929c2-6ee0-4958-8b06-948a63a1c173)
