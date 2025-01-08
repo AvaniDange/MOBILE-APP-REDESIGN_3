@@ -63,3 +63,5 @@ The goal of this project is to redesign Spotify’s user interface and experienc
 
 
 ![image](https://github.com/user-attachments/assets/757929c2-6ee0-4958-8b06-948a63a1c173)
+
+![image](https://github.com/user-attachments/assets/fdf3907c-6f96-4b92-b29a-09d97c6a150a)
